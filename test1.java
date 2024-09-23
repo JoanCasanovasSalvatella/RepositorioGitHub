@@ -9,5 +9,12 @@ public class test1 {
 		System.out.print("Esta es la segunda linea del primer documento.");
 		
 		System.out.print("Este es una linea de codigo");
+		
+		int number = 8;
+		if (number % 2 == 0) {
+			System.out.println("El número es par.");
+		} else {
+			System.out.println("El número es impar.");
+		}
 	}
 }
