@@ -18,5 +18,6 @@ public class test1 {
 		}
 		
 		System.out.println("Este es el conflicto de Rene");
+		System.out.println("Este es el conflicto de Joan");
 	}
 }
